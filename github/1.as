@@ -1,5 +1,4 @@
-
-
+my first program in C++
 
 // initialization of variables
 
